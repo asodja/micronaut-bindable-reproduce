@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.bindable.reproducer
+---
+testFramework: junit
+sourceLanguage: java
